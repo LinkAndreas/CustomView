@@ -9,6 +9,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "CustomView", dependencies: [], path: "Frameworks/CustomView")
+        .target(name: "CustomView", dependencies: [], path: "CustomView")
     ]
 )
